@@ -27,6 +27,8 @@ Workshops partecipants:
 | ---------- | ------- | --------------------------- |
 | Alessandro | Poli    | alessandro.poli@mondora.com |
 | Manuel     | Serra   | manuel.serra@mondora.com    |
+| Gianluca   |  Zaccagnino  | gianluca.zaccagnino@top-network.it    |
+| Cuano     | Lanzi   | cuano.lanzi@top-network.it   |
 
 Exercise: make your personal pull request and fill this table.
 
